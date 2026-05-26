@@ -1,5 +1,6 @@
 // Name - 5/26/26
-// This application prints "Hello world!" and the numbers 0 to 9.
+// This application prints "Hello, World!" and the numbers 0 to 9. It does not print squares.
+
 
 console.log("Hello world!");
 
